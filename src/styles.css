@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.isEditable:hover {
+  outline: 1px solid blue;
+  outline-style: dashed;
+  cursor: pointer;
+}
+
+.isEditable--editing {
+  outline: 1px solid blue;
+}
